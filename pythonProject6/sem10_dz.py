@@ -35,4 +35,4 @@ print("\nOne-hot кодирование:")
 print(one_hot_data.head())
 
 print("\nРезультирующий DataFrame:")
-print(result.head())  
+print(result.head())
